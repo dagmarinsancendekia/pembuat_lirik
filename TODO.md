@@ -15,6 +15,9 @@ Create a web-based application that displays scrolling lyrics synchronized to a 
 - Scrolling display area
 - Play/Pause/Reset controls
 - Visual enhancements (gradients, glowing text, etc.)
+- Summary section showing all displayed lines
+- Countdown timer before starting (5 seconds)
+- "Selesai" message when lyrics finish
 
 ## Steps to Complete
 
@@ -58,3 +61,11 @@ Create a web-based application that displays scrolling lyrics synchronized to a 
 - [x] Run the app locally and test in browser
 - [ ] Add optional features (e.g., audio sync, themes)
 - [ ] Deploy to web server if needed
+
+## Additional Enhancements Completed
+- [x] Added summary section to track displayed lines
+- [x] Implemented 5-second countdown before starting
+- [x] Added "Selesai" message when lyrics finish
+- [x] Made design fully responsive for desktop and mobile
+- [x] Used clamp() for flexible font sizes and spacing
+- [x] Enhanced mobile layout with better spacing and controls
